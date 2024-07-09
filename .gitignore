@@ -1,0 +1,4 @@
+*.sqlite3
+cost_tracker_project/__pycache__
+cost_tracker/__pycache__
+cost_tracker/migrations/__pycache__
